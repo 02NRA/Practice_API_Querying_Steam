@@ -1,5 +1,5 @@
 # New_Records_Hub
- A better way to handle all the data that was in my Google Sheets
+ This repo is starting as some practice querying third party APIs, but I hope to expand it to be a better way to handle all the data that was in my Google Sheets. I started with the Steam Web API :)
 
 # Prerequisites
 
