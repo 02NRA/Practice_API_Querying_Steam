@@ -21,6 +21,3 @@ window.toggleTheme = function() {
     var element = document.body;
     element.classList.toggle("dark-mode");
 }
-
-//https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=7205EC5D4E4801C5036D9A51800FD39E&steamid=76561199007691270&format=json
-//https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=1E9943F4C7D1135C7B4F2CA266BB3742&steamid=76561199007691270&format=json
