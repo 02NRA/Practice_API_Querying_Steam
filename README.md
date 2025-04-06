@@ -1,5 +1,5 @@
-# New_Records_Hub
- This repo is starting as some practice querying third party APIs, but I hope to expand it to be a better way to handle all the data that was in my Google Sheets. I started with the Steam Web API :)
+# Practice_API_Querying_Steam
+A Repo started to learn how to query third-party APIs. Unfortunately, I could not find a way to get API keys for any other gaming platforms.
 
 # Prerequisites
 
